@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+* body {
+  background-color: tomato;
+}
+
+* body p {
+  background-color: gray;
+}
+/*# sourceMappingURL=style.css.map */
